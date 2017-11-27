@@ -1,0 +1,21 @@
+{
+"manifest_version": 2,
+"name": "Inbox",
+"description": "Link to Inbox by Google",
+"version": "1",
+"icons": {
+"128": "logo.png"
+},
+"app": {
+"urls": [
+"https://inbox.google.com"
+],
+"launch": {
+"web_url": "https://inbox.google.com"
+}
+},
+"permissions": [
+"unlimitedStorage",
+"notifications"
+]
+}
