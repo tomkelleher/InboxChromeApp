@@ -2,7 +2,7 @@
 "manifest_version": 2,
 "name": "Inbox",
 "description": "Link to Inbox by Google",
-"version": "1",
+"version": "1.0",
 "icons": {
 "128": "logo.png"
 },
